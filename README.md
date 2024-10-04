@@ -1,3 +1,4 @@
 # github
 this is my first github repositary.<br>
-My name is Rahul Shukla
+My name is Rahul Shukla.
+Author Rahul Shukla.
